@@ -76,22 +76,22 @@ To analyze a real-world dataset of 9,500+ restaurants, extract meaningful insigh
 ---
 
 🔍 Key Insights
-North Indian cuisine is the most served
+  *North Indian cuisine is the most served
 
-New Delhi has the highest restaurant density
+  *New Delhi has the highest restaurant density
 
-Over 75% of restaurants do not offer online delivery
+  *Over 75% of restaurants do not offer online delivery
 
-Positive sentiment restaurants receive 5–6x more votes
+  *Positive sentiment restaurants receive 5–6x more votes
 
-Higher price range restaurants are more likely to offer table booking
+  *Higher price range restaurants are more likely to offer table booking
 
 🎓 Learnings
-Strengthened skills in data wrangling and EDA
+  *Strengthened skills in data wrangling and EDA
 
-Learned dashboard storytelling using Power BI
-
-Improved ability to translate raw data into actionable business insights
+  *Learned dashboard storytelling using Power BI
+  
+  *Improved ability to translate raw data into actionable business insights
 
 Gained experience working on real-world datasets under internship guidance
 
@@ -107,8 +107,8 @@ restaurant-insights-analysis-cognifyz/
 
 🙋‍♀️ Author
 Deepa Nayak
-📌 LinkedIn
-💻 GitHub
+📌 LinkedIn: https://www.linkedin.com/in/deepa-nayak-a825a7175/
+💻 GitHub: https://github.com/Deepanayaktangodu/-restaurant-insights-analysis
 
 🏁 Acknowledgements
 This project was developed as part of the Data Analyst Internship Program at Cognifyz Technologies.
